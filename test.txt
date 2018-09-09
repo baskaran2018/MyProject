@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7E13-1800
+
+ Directory of C:\Users\HP\Desktop\MyProject
+
+09/09/2018  03:50 PM    <DIR>          .
+09/09/2018  03:50 PM    <DIR>          ..
+09/09/2018  03:50 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  461,115,277,312 bytes free
